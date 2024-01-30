@@ -1,4 +1,4 @@
-# Thisnprogram is intended to generate appropriate statements according to th input age using if conditions
+# This program is intended to generate appropriate statements according to the input age using if conditions
 #Request the user to enter his/her age and cast it to an integer.
 age = int (input ("Enter your age :    "))
 print ()
